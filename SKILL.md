@@ -1,6 +1,6 @@
 ---
-name: dola-r(v2.0)-seedance
-description: "Generate Seedance videos through the built-in video tools only. Use for requests mentioning Dola R-(v2.0)Seedance, Seedance, vertical video, reels, shorts, stories, or text/image-to-video. Always produce exactly 30-second, 9:16 video unless the tool rejects the request; optimize quota usage and return every available video as a direct downloadable link."
+name: dola-rx-seedance
+description: "Generate Seedance videos through the built-in video tools only. Use for requests mentioning Dola Rx-Seedance, Seedance, vertical video, reels, shorts, stories, or text/image-to-video. Always produce exactly 30-second, 9:16 video unless the tool rejects the request; optimize quota usage and return every available video as a direct downloadable link."
 ---
 
 # Dola R-Seedance
